@@ -1,7 +1,6 @@
-""" projekt_2.py: druhý projekt do Engeto Online Python Akademie 
-author: Adéla Pečená 
-email: adela.pecena@email.cz 
-discord: Adéla Pečená#5431 """
+
+
+
 
 import sys
 import csv
@@ -18,8 +17,8 @@ def main():
     print(SEPARATOR)
     print(
     """
-    * Please visit: https://volby.cz/pls/ps2017nss/ps3?xjazyk=CZ
-    * Choose your region by clicking on 'X' in 'Vyber obce' column.
+    * Prosím navštivte: https://volby.cz/pls/ps2017nss/ps3?xjazyk=CZ
+    * Vyberte si svůj okres kliknutím na 'X' v kolonce 'Vyber obce'.
     """
     )
     print(SEPARATOR)
